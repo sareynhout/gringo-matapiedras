@@ -1,6 +1,7 @@
 function pacoshot(x,n)
 % Simulated dispersion patterns of a 12-pellet shotgun cartridge fired from
 % a cylinder barrel.
+% Reference: https://www.scottareynhout.com/blog/2019/11/27/how-likely-is-it-that-the-carabineros-have-been-shooting-to-maim
 %
 % Inputs:
 % x = distance downrange, in meters (float), valid from 15-60 meters
